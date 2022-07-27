@@ -1,4 +1,4 @@
-echo @off
+@echo off
 chgcolor 09
 echo
  █     █░ ██░ ██  ██▓  ██████  ██▓███  ▓█████  ██▀███   ██▒   █▓ ██▓███   ███▄    █    
@@ -16,7 +16,7 @@ echo
 echo                        © 2022 WhisperVPN LTD.
 echo                    ＞＞＞＞>>>＞[Menu]＜<<<＜＜＜＜
 echo
-echo 
+echo       
 echo                        ➡[1] Start VPN
 echo                        ➡[2] About Us
 echo                        ➡[3] Update Script
