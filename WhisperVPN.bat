@@ -14,7 +14,7 @@ echo
 echo
 echo
 echo                        © 2022 WhisperVPN LTD.
-echo                    ＞＞＞＞>>>＞[Menu]＜<<<＜＜＜＜
+echo                          ＞＞＞＞＞[Menu]＜＜＜＜＜
 echo
 echo       
 echo                        ➡[1] Start VPN
